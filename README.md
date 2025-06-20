@@ -1,1 +1,1 @@
-# kolos1
+template do pierwszego kolosa
